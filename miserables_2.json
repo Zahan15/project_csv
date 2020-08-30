@@ -1,9 +1,9 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
-    {"id": "Mme.Magloire", "group": 1},
+    {"id": "Myriel", "group": 1, "name": "L. Messi"},
+    {"id": "Napoleon", "group": 2, "name": "Argentina"},
+    {"id": "Mlle.Baptistine", "group": 3, "name": "FC Barcelona"},
+    {"id": "Mme.Magloire", "group": 2, "name": "Spain"},
     {"id": "CountessdeLo", "group": 1},
     {"id": "Geborand", "group": 1},
     {"id": "Champtercier", "group": 1},
