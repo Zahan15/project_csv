@@ -1,9 +1,9 @@
 {
   "nodes": [
     {"id": "Myriel", "group": 1, "name": "L. Messi"},
-    {"id": "Napoleon", "group": 3, "name": "Argentina"},
-    {"id": "Mlle.Baptistine", "group": 5, "name": "FC Barcelona"},
-    {"id": "Mme.Magloire", "group": 3, "name": "Spain"},
+    
+    
+    
     {"id": "CountessdeLo", "group": 1, "name": " "},
     {"id": "Geborand", "group": 1, "name": " "},
     {"id": "Champtercier", "group": 1, "name": " "},
@@ -20,6 +20,7 @@
     {"id": "Listolier", "group": 3, "name": " "},
     {"id": "Fameuil", "group": 3, "name": " "},
     {"id": "Blacheville", "group": 3, "name": " "},
+    {"id": "Napoleon", "group": 3, "name": "Argentina"},
     {"id": "Favourite", "group": 3, "name": " "},
     {"id": "Dahlia", "group": 3, "name": " "},
     {"id": "Zephine", "group": 3, "name": " "},
@@ -36,6 +37,7 @@
     {"id": "Woman1", "group": 1, "name": " "},
     {"id": "Judge", "group": 3, "name": " "},
     {"id": "Champmathieu", "group": 5, "name": " "},
+    {"id": "Mlle.Baptistine", "group": 5, "name": "FC Barcelona"},
     {"id": "Brevet", "group": 3, "name": " "},
     {"id": "Chenildieu", "group": 1, "name": " "},
     {"id": "Cochepaille", "group": 2, "name": " "},
@@ -59,6 +61,7 @@
     {"id": "BaronessT", "group": 5, "name": " "},
     {"id": "Mabeuf", "group": 8, "name": " "},
     {"id": "Enjolras", "group": 8, "name": " "},
+    {"id": "Mme.Magloire", "group": 3, "name": "Spain"},
     {"id": "Combeferre", "group": 8, "name": " "},
     {"id": "Prouvaire", "group": 8, "name": " "},
     {"id": "Feuilly", "group": 8, "name": " "},
