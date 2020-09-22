@@ -1,8 +1,5 @@
 {
-    {
   "nodes": [
-    {"id": "L. Messi", "group": 1, "name": "L. Messi"},
-    {"id": "C. Ronaldo", "group": 1, "name": "C. Ronaldo"},
     
     {"id": "L. Messi","group": 1},
     {"id": "Cristiano Ronaldo","group": 1},
